@@ -117,3 +117,5 @@ if st.button("Enter Here"):
 
     else:
         st.warning("Please enter a question.")
+        
+        st.warning("Please enter a question.")
